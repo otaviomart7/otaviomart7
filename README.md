@@ -8,8 +8,6 @@
 
 <p>
   <img src="https://thumb.wikimedia.org/wikipedia/pt/thumb/8/8b/EscudoDoVascoDaGama.svg/250px-EscudoDoVascoDaGama.svg.png?utm_source=pt.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" width="40" alt="Descrição da imagem">
-</p>
-<p>
   <img src="https://github.com/user-attachments/assets/01b84ac6-670f-48f5-a9e7-0432613430df" width="40" alt="Descrição da imagem">
 </p>
 
