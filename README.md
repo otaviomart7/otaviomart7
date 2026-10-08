@@ -8,7 +8,7 @@
 ## Languages, Frameworks and others
 <p>
   <a href="https://learn.microsoft.com/en-us/cpp/c-language/c-language-reference?view=msvc-170" target="_blank">
-    <img width="38" height="38" src="./public/images/c.png" alt="C" title="C" />
+    <img width="38" height="38" src="[./public/images/c.png](https://pt.wikipedia.org/wiki/Club_de_Regatas_Vasco_da_Gama)" alt="C" title="C" />
   </a>
   <a href="https://learn.microsoft.com/en-us/cpp/cpp/cpp-language-reference?view=msvc-170" target="_blank">
     <img width="38" height="38" src="./public/images/c++.png" alt="C++" title="C++" />
