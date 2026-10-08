@@ -1,5 +1,3 @@
 ## 🏆 Minhas Conquistas do GitHub
 
-<div align="center">
-  <img src="https://vercel.app" alt="Troféus do GitHub" />
-</div>
+![Estatísticas do GitHub](https://vercel.app)
