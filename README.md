@@ -5,8 +5,12 @@
 
 
 # Skills
-## Languages, Frameworks and others
-![Texto alternativo da imagem](https://thumb.wikimedia.org/wikipedia/pt/thumb/8/8b/EscudoDoVascoDaGama.svg/250px-EscudoDoVascoDaGama.svg.png?utm_source=pt.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)
+
+<p>
+<img src="[URL_DA_IMAGEM_AQUI](https://thumb.wikimedia.org/wikipedia/pt/thumb/8/8b/EscudoDoVascoDaGama.svg/250px-EscudoDoVascoDaGama.svg.png?utm_source=pt.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)" width="300" alt="Texto alternativo">
+</p>
+
+
 
 
 ---
