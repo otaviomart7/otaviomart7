@@ -7,7 +7,7 @@
 # Skills
 ## Languages, Frameworks and others
 
-[https://pt.wikipedia.org/wiki/Club_de_Regatas_Vasco_da_Gama](https://thumb.wikimedia.org/wikipedia/pt/thumb/8/8b/EscudoDoVascoDaGama.svg/250px-EscudoDoVascoDaGama.svg.png?utm_source=pt.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)
+https://thumb.wikimedia.org/wikipedia/pt/thumb/8/8b/EscudoDoVascoDaGama.svg/250px-EscudoDoVascoDaGama.svg.png?utm_source=pt.wikipedia.org&utm_campaign=parser&utm_content=thumbnail
 
 ---
 # Already leaving?
