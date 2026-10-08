@@ -1,51 +1,8 @@
 # About me
-<a href="https://github.com/Marco-Veio">
-  <img src="https://img.shields.io/static/v1?label=Overview&message=Marco-Veio&logo=GitHub&color=1d7ecd" />
+<a href="https://github.com/otaviomart7">
+  <img src="https://img.shields.io/static/v1?label=Overview&message=otaviomart7&logo=GitHub&color=1d7ecd" />
 </a>
 
-## Work and academic life
-- 🎓 &nbsp; Graduated in **Electrical Engineering** from [Universidade Positivo](https://www.up.edu.br/)
-- 💼 &nbsp; Working as **Frontend Developer** at [Mathex](https://mathex.com.br)
-
-## GitHub status
-![Marco-Veio's profile views](https://enhb8joerk83ele.m.pipedream.net)
-<p>
-  <img height="190" src="https://github-readme-stats.vercel.app/api?username=marco-veio&show_icons=true&theme=tokyonight&cache_seconds=1800&hide_border=true&include_all_commits=true&count_private=true" alt="Marco-Veio's stats" />
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marco-veio&hide_border=true&layout=compact&langs_count=16&theme=tokyonight" alt="Marco-Veio's languages" />
-</p>
-<p>
-  <img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=marco-veio&theme=tokyonight&hide_border=true" alt="Marco-Veio's streak" />
-</p>
-<p>
-  <img height="190" src="https://github-profile-trophy.vercel.app?username=marco-veio&theme=tokyonight&no-frame=true&margin-w=4" alt="Marco-Veio's Github trophies" />
-</p>
-
-## WakaTime status
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=marcoveio&hide_border=true&layout=compact&theme=tokyonight" />
-</p>
-
-## Contact
-<a href="https://github.com/Marco-Veio" title="GitHub">
-  <img height=25 src="https://img.shields.io/github/followers/Marco-Veio?label=follow&style=social" />
-</a>
-&nbsp;
-<a href="https://mail.google.com/mail/u/0/?fs=1&to=marco_a_thomaz@hotmail.com&tf=cm" title="GMail">
-  <img height=25 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:marco_a_thomaz@hotmail.com" title="Outlook">
-  <img height=25 src="https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/marco-aur%C3%A9lio-rehme-thomaz-243a2323b/" title="LinkedIn">
-  <img height=25 src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marco-aur%C3%A9lio-rehme-thomaz-243a2323b/" />
-</a>
-&nbsp;
-
-<br />
-
----
 
 # Skills
 ## Languages, Frameworks and others
