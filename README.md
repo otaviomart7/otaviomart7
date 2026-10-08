@@ -7,7 +7,7 @@
 # Skills
 
 <p>
-  <img src="https://thumb.wikimedia.org/wikipedia/pt/thumb/8/8b/EscudoDoVascoDaGama.svg/250px-EscudoDoVascoDaGama.svg.png?utm_source=pt.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" width="300" alt="Descrição da imagem">
+  <img src="https://thumb.wikimedia.org/wikipedia/pt/thumb/8/8b/EscudoDoVascoDaGama.svg/250px-EscudoDoVascoDaGama.svg.png?utm_source=pt.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" width="40" alt="Descrição da imagem">
 </p>
 
 
