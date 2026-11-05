@@ -4,7 +4,7 @@
 </a>
 
 
-# Skills
+# Conquistas
 
 <p>
   <img src="https://thumb.wikimedia.org/wikipedia/pt/thumb/8/8b/EscudoDoVascoDaGama.svg/250px-EscudoDoVascoDaGama.svg.png?utm_source=pt.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" width="40" alt="Descrição da imagem">
@@ -19,7 +19,7 @@
 
 
 ---
-# Already leaving?
+# Já está saindo?
 <p>
   <img align="left" height="300" alt="GIF" src="public/gif/profile.gif"/>
 
