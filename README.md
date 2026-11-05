@@ -23,5 +23,5 @@
 <p>
   <img align="left" height="300" alt="GIF" src="public/gif/profile.gif"/>
 
-  &nbsp;&nbsp; ***Check out my [repositories](https://github.com/Marco-Veio?tab=repositories) first!***
+  &nbsp;&nbsp; ***Check out my [repositories](https://github.com/otaviomart7?tab=repositories) first!***
 </p>
